@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "scheme": "nativeApp",
+	"name": "nativeApp",
+	"slug": "nativeApp",
+	"icon": "./assets/images/react_logo.png",
+    "version": "0.0.1",
+	"splash ": {
+	      "icon": "./assets/images/myApp.png",
+	      "hideExponentText": true,
+	      "backgroundColor": "#000000"
+	    },
+	"androidStatusBar": {
+			"barStyle": "light-content",
+			"backgroundColor": "#3F51B5"
+		},
+  }
+}
